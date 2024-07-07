@@ -1,2 +1,3 @@
-# Projects_for_data_scientist_roles
-Projects for data scientist roles
+# Projects for Data Scientist
+1. Diabetes Prediction using Decision Tree Model
+2. Lung Cancer Prediction using Neural Network
